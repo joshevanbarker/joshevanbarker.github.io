@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Josh Barker is a Leadership Fellows Analyst at the Federal Reserve Bank of Philadelphia. 
+Josh Barker is a Financial Statistics Analyst at the Federal Reserve Bank of Philadelphia. 
