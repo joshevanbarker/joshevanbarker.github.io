@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Resume"
-    url: https://github.com/joshevanbarker/resume/blob/main/Josh%20Barker%20Resume.pdf
+    url: /assets/documents/Josh%20Barker%20-%20Resume.pdf
   - title: "Portfolio"
     url: /porfolio/
   #- title: "Publications"
