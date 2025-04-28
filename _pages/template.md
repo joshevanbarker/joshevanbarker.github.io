@@ -47,7 +47,7 @@ A [link](http://kramdown.gettalong.org) to the kramdown homepage.
 
 You can also insert images:
 
-An image: ![headshot](/assets/images/Johnson_Headshot_Sp17.jpg)  ⁨
+An image: ![headshot](/assets/images/josh.png)  ⁨
 
 
 
