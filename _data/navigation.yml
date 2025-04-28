@@ -1,10 +1,12 @@
 # main links
 main:
+  #- about: "About"
+  #  url: /about/
   - title: "Resume"
     url: /assets/documents/Josh%20Barker%20-%20Resume.pdf
   - title: "Portfolio"
-    url: /porfolio/
+    url: /portfolio/
   #- title: "Publications"
-  #  url: /portfolio/
+  #  url: /publications/
   #- title: "Links"
   #  url: /links/
