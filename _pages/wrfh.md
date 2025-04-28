@@ -9,7 +9,7 @@ Test
 </audio>
 
 <audio controls>
-  <source src="/main/2023-03-13%20Social%20Security%20Solvency.mp3" type="audio/mp3">
+  <source src="assets/audiovisual/the-policy-corner/2023-03-13 Social Security Solvency.mp3" type="audio/mp3">
   Your browser does not support audio files.
 </audio>
 
