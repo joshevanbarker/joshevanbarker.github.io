@@ -3,14 +3,15 @@ title: "Radio Free Hillsdale"
 permalink: /presentation/wrfh
 ---
 
-![radio](/assets/images/radio.jpeg)  ⁨
+![radio](/assets/images/radio-1.png)  ⁨
 As an undergraduate student at Hillsdale College, I was host of the weekly radio program, The Policy Corner, on WRFH Radio Free Hillsdale 101.7FM from September 2019 until May 2023. The Policy Corner won Best Current Events Story at the Michigan Association of Broadcasters Student Broadcast Awards three years in a row (2022, 2023, and 2024) and was a national finalist for Best Public Affairs Program at the Intercollegiate Broadcast Systems Awards (2020) and Best Hard News Reporting at the College Broadcasters, Inc. awards (2022).
 
-Check out some episodes of The Policy Corner Below:
-[The Policy Corner - Social Security Solvency](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2023-03-13%20Social%20Security%20Solvency.mp3)
-[The Policy Corner - Michigan Tax Reform](https://github.com/joshevanbarker/joshevanbarker.github.io/blob/b003796538177365b2219b0de7b4562b8c25e942/assets/audiovisual/the-policy-corner/2023-02-20%20Michigan%20Tax%20Reform.mp3)
-[The Policy Corner - Michigan Right-to-Work Repeal](https://github.com/joshevanbarker/joshevanbarker.github.io/blob/b003796538177365b2219b0de7b4562b8c25e942/assets/audiovisual/the-policy-corner/2023-02-13%20Michigan%20Right-to-Work%20Repeal.mp3)
-[The Policy Corner - Christmas Omnibus](https://joshevanbarker.github.io/blob/b003796538177365b2219b0de7b4562b8c25e942/assets/audiovisual/the-policy-corner/2023-01-23%20Christmas%20Omnibus.mp3)
+Check out some episodes of The Policy Corner Below:<br>
+[The Policy Corner - Social Security Solvency](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2023-03-13%20Social%20Security%20Solvency.mp3)<br>
+[The Policy Corner - Michigan Tax Reform](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2023-02-20%20Michigan%20Tax%20Reform.mp3) <br>
+[The Policy Corner - Michigan Right-to-Work Repeal](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2023-02-13%20Michigan%20Right-to-Work%20Repeal.mp3) <br>
+[The Policy Corner - Christmas Omnibus](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2023-01-23%20Christmas%20Omnibus.mp3)
 
-During my time at radio, I also participated in live coverage on Election Night as a contributor in 2020 and as the host in 2022. 
-[Radio Free Hillsdale Live Election Night Coverage 2022 - 15 Minute Highlight Reel](https://github.com/joshevanbarker/joshevanbarker.github.io/blob/0171f1061997bf8c99d75c4476ac9023c401786b/assets/audiovisual/the-policy-corner/2022-11-08%20ELECTION%20NIGHT%20-%2015%20minute%20highlight%20reel.mp3)
+![radio](/assets/images/radio-2.png)  ⁨
+During my time at radio, I also participated in live coverage on Election Night as a contributor in 2020 and as the host in 2022.<br>
+[Radio Free Hillsdale Live Election Night Coverage 2022 - 15 Minute Highlight Reel](https://joshevanbarker.github.io/blob/0171f1061997bf8c99d75c4476ac9023c401786b/assets/audiovisual/the-policy-corner/2022-11-08%20ELECTION%20NIGHT%20-%2015%20minute%20highlight%20reel.mp3)
