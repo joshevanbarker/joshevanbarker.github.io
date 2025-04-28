@@ -1,6 +1,6 @@
 ---
 title: "Porfolio"
-permalink: /portfolio/
+permalink: /portfolio
 ---
 
 Coming soon. 
