@@ -2,26 +2,15 @@
 title: "Radio Free Hillsdale"
 permalink: /presentation/wrfh
 ---
-Test
-<audio controls>
-  <source src="https://joshevanbarker.github.io/blob/main/2023-03-13%20Social%20Security%20Solvency.mp3" type="audio/mp3">
-  Your browser does not support audio files.
-</audio>
 
-<audio controls>
-  <source href="assets/audiovisual/the-policy-corner/2023-03-13 Social Security Solvency.mp3" type="audio/mp3">
-  Your browser does not support audio files.
-</audio>
+![radio](/assets/images/radio.jpeg)  ⁨
+As an undergraduate student at Hillsdale College, I was host of the weekly radio program, The Policy Corner, on WRFH Radio Free Hillsdale 101.7FM from September 2019 until May 2023. The Policy Corner won Best Current Events Story at the Michigan Association of Broadcasters Student Broadcast Awards three years in a row (2022, 2023, and 2024) and was a national finalist for Best Public Affairs Program at the Intercollegiate Broadcast Systems Awards (2020) and Best Hard News Reporting at the College Broadcasters, Inc. awards (2022).
 
-[audio](assets/audiovisual/the-policy-corner/2023-03-13 Social Security Solvency.mp3)
+Check out some episodes of The Policy Corner Below:
+[The Policy Corner - Social Security Solvency](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2023-03-13%20Social%20Security%20Solvency.mp3)
+[The Policy Corner - Michigan Tax Reform](https://github.com/joshevanbarker/joshevanbarker.github.io/blob/b003796538177365b2219b0de7b4562b8c25e942/assets/audiovisual/the-policy-corner/2023-02-20%20Michigan%20Tax%20Reform.mp3)
+[The Policy Corner - Michigan Right-to-Work Repeal](https://github.com/joshevanbarker/joshevanbarker.github.io/blob/b003796538177365b2219b0de7b4562b8c25e942/assets/audiovisual/the-policy-corner/2023-02-13%20Michigan%20Right-to-Work%20Repeal.mp3)
+[The Policy Corner - Christmas Omnibus](https://joshevanbarker.github.io/blob/b003796538177365b2219b0de7b4562b8c25e942/assets/audiovisual/the-policy-corner/2023-01-23%20Christmas%20Omnibus.mp3)
 
-click <audio id="ID004" source src="assets/audiovisual/the-policy-corner/2023-03-13 Social Security Solvency.mp3"></audio><button onclick="playAudio('ID004')" type="button">play4</button> 
-<audio id="ID003" source src="assets/audiovisual/the-policy-corner/2023-03-13 Social Security Solvency.mp3"></audio><button onclick="playAudio('ID003')" type="button">play3</button>
-<script>
-function playAudio(audio_element) {
-	var x = document.getElementById(audio_element);
-	x.play();
-}
-</script>
-
-
+During my time at radio, I also participated in live coverage on Election Night as a contributor in 2020 and as the host in 2022. 
+[Radio Free Hillsdale Live Election Night Coverage 2022 - 15 Minute Highlight Reel](https://github.com/joshevanbarker/joshevanbarker.github.io/blob/0171f1061997bf8c99d75c4476ac9023c401786b/assets/audiovisual/the-policy-corner/2022-11-08%20ELECTION%20NIGHT%20-%2015%20minute%20highlight%20reel.mp3)
