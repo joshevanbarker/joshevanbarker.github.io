@@ -3,7 +3,7 @@ title: "Radio Free Hillsdale"
 permalink: /presentation/wrfh
 ---
 ## The Policy Corner
-![radio](/assets/images/radio-1.png)  ⁨
+![radio](/assets/images/radio-1.png)<br>
 As an undergraduate student at Hillsdale College, I was host of the weekly radio program, The Policy Corner, on WRFH Radio Free Hillsdale 101.7FM from September 2019 until May 2023. The Policy Corner won Best Current Events Story at the Michigan Association of Broadcasters Student Broadcast Awards three years in a row (2022, 2023, and 2024) and was a national finalist for Best Public Affairs Program at the Intercollegiate Broadcast Systems Awards (2020) and Best Hard News Reporting at the College Broadcasters, Inc. awards (2022).
 https://github.com/joshevanbarker/joshevanbarker.github.io/blob/5188e2bfb6caaa7b21df4dc77a2144c2af76dea9/assets/audiovisual/the-policy-corner/2022-09-12%20CHIPS%2B.mp3
 
