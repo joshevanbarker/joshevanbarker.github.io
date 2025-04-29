@@ -16,4 +16,4 @@ Check out some episodes of The Policy Corner Below:<br>
 ## Live Election Night Coverage
 ![radio](/assets/images/radio-2.png)  <br>
 During my time at radio, I also participated in live coverage on Election Night as a contributor in 2020 and as the host in 2022.<br>
-[Radio Free Hillsdale Live Election Night Coverage 2022 - 15 Minute Highlight Reel](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2022-11-08%20ELECTION%20NIGHT%20-%2015%20minute%20highlight%20reel.mp3)
+[WRFH Live Election Night Coverage 2022 Highlight Reel](https://joshevanbarker.github.io/assets/audiovisual/the-policy-corner/2022-11-08%20ELECTION%20NIGHT%20-%2015%20minute%20highlight%20reel.mp3)
