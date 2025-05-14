@@ -7,6 +7,8 @@ In this project, using data from the International Trade Administration's Metrop
 
 After training several machine learning models on the data, the best models were selected and incorporated into a Flask App user-interface, some of which is shown below.
 
-![exports](/assets/audiovisual/Exports_Flask_App.mov)<br>
+<video width="640" height="360" controls>
+  <source src="/assets/audiovisual/Exports_Flask_App_Example.mp4" type="video/mp4">
+</video>
 
 To view all of the relevant code, visit my GitHub Respository: <a href = "https://github.com/joshevanbarker/Machine_Learning_with_MSA_Exports_DTSC_691_Final_Project">Machine_Learning_with_MSA_Exports_DTSC_691_Final_Project</a>.
