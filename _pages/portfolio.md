@@ -6,4 +6,5 @@ redirect_from:
   - /portfolio
 ---
 
-Coming soon. 
+### <a href="/portfolio/exports">Exports Forecasting</a>
+I imported and cleaned data from over a dozen sources, modeled export volumes by metropolitan statistical area, and created a Flask App user-interface.
