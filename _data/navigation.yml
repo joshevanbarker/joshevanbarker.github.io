@@ -10,5 +10,7 @@ main:
   #  url: /publications/
   - title: "Presentations"
     url: /presentation/
+  - title: "Miscellaneous"
+    url: /misc/
   #- title: "Links"
   #  url: /links/
