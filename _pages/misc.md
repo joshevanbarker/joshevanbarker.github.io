@@ -14,6 +14,9 @@ One example is seen below. In this project, I mapped the Atlanta Urban Area Toll
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10YeXK2-1fV9TE81Anqd4tF1y8VAKq9E&ehbc=2E312F" width="640" height="480"></iframe>
 
+#### Other Proposals
+I have taken some of my own ideas for road projects and mapped them <a href= "https://www.google.com/maps/d/edit?mid=1XY5HvIXAGMMQ37RePUzZNiYqZMRNC_g&usp=sharing">here</a> and <a href= "https://www.google.com/maps/d/edit?mid=1j-exyeap6jNIJW3XrQ_W04Z43f8wL7o&usp=sharing">here</a>. While they are almost certainly unfeasible fiscally or politically, they are interesting ideas to me and remain incomplete works in progress.
+
 ### Piano
 <img src="/assets/images/josh_piano.png" width="50%" height="50%" alt="Josh at Piano"><br><br>
 I began learning to play the piano when I was 5 years old, and I have been playing ever since. While I initially learned classical piano, much of the past decade has been spent regularly accompanying worship at various churches--both as part of a larger praise band and as the only instrumentalist--along with instrumental preludes, offeratories, and other liturgical music. 
