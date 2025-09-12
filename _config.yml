@@ -25,27 +25,17 @@ author:
   employer         : "Federal Reserve Bank of Philadelphia"
   uri              : # URL
   email            : "josh.evan2001@gmail.com" 
+  orcid            : "https://orcid.org/0009-0004-4614-4445"
+  github           : "joshevanbarker"
+  twitter          : "joshevanbarker" 
+  substack         :  "https://substack.com/@joshevanbarker/notes"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/joshevanbarker/"
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/joshevanbarker"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://x.com/JoshEvanBarker"
     - label: "YouTube"
       icon: "fab fa-youtube-square"
       url: "https://www.youtube.com/@joshevanbarker"
-
-#  # Academic websites
-#  googlescholar    : ""
-#  impactstory      : # URL
-#  orcid            : ""
-#  semantic         : # URL
-#  pubmed           : ""
-#  researchgate     : # URL
 
 
 # Publication Category - The following the list of publication categories and their headings
