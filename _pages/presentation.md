@@ -5,12 +5,14 @@ author_profile: true
 redirect_from: 
   - /presentations
 ---
+### <a href="https://www.youtube.com/@joshevanbarker/">Short-Form Social Media Content</a>
+I produce short-form videos on economic theory. To find my videos by topic, click [here](https://www.youtube.com/@joshevanbarker/playlists). You can find me at @joshevanbarker on [Instagram](https://www.instagram.com/joshevanbarker/), [TikTok](https://www.tiktok.com/@joshevanbarker?lang=en), [X](https://x.com/joshevanbarker) (formerly Twitter), [YouTube](https://www.youtube.com/@joshevanbarker/), [Facebook](https://www.facebook.com/joshevanbarker/), [Snapchat](https://www.snapchat.com/add/joshevanbarker), and [Threads](https://www.threads.com/@joshevanbarker).
+
+### <a href="/presentation/wrfh">Radio Free Hillsdale</a>
+I wrote, recorded, and produced an award-winning 5-minute weekly radio program on public policy from 2019 through 2023.
 
 ### <a href="https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=iqk4eZHAUe4">Fairness in Machine Learning in Consumer Credit Models</a>
 For my final project for DTSC 690: Ethical and Philosophical Issues in Data Science at Eastern University, I presented on the debate over Fairness in Machine Learning with specific focus on its application to consumer credit determinations. This presentation was recorded in April 2025.
 [![Fairness in Machine Learning in Consumer Credit Models
 ](https://img.youtube.com/vi/iqk4eZHAUe4/maxresdefault.jpg)](https://www.youtube.com/watch?v=iqk4eZHAUe4)
 
-
-### <a href="/presentation/wrfh">Radio Free Hillsdale</a>
-I wrote, recorded, and produced an award-winning 5-minute weekly radio program on public policy from 2019 through 2023.
