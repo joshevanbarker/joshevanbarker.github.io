@@ -5,8 +5,8 @@ author_profile: true
 redirect_from: 
   - /presentations
 ---
-### <a href="https://www.youtube.com/@joshevanbarker/">Short-Form Social Media Content</a>
-I produce short-form videos on economic theory. To find my videos by topic, click [here](https://www.youtube.com/@joshevanbarker/playlists). You can find me at @joshevanbarker on [Instagram](https://www.instagram.com/joshevanbarker/), [TikTok](https://www.tiktok.com/@joshevanbarker?lang=en), [X](https://x.com/joshevanbarker) (formerly Twitter), [YouTube](https://www.youtube.com/@joshevanbarker/), [Facebook](https://www.facebook.com/joshevanbarker/), [Snapchat](https://www.snapchat.com/add/joshevanbarker), and [Threads](https://www.threads.com/@joshevanbarker).
+### <a href="/presentation/content-creation">Short-Form Social Media Content</a>
+I produce short-form videos on economic theory. To find my videos by topic, click [here](https://www.youtube.com/@joshevanbarker/playlists). 
 
 ### <a href="/presentation/wrfh">Radio Free Hillsdale</a>
 I wrote, recorded, and produced an award-winning 5-minute weekly radio program on public policy from 2019 through 2023.
