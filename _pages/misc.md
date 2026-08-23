@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /misc
 ---
+### <a href="/ds_portfolio">Data Science Portfolio
+In both professional and academic settings, I have built tools for data analysis and analytics. To see some examples, check out my Data Science Portfolio <a href= "/ds_portfolio">here</a> which contains a sample SQL database and connected R Shiny application as well as Python Notebooks cleaning data and training models with output connected to a Flask App. 
 
 ### Transportation
 Since I was a child, I have been fascinated by road maps and transportation improvement projects. Over the years, I've invented various highway proposals of my own. I have also taken digitized highway proposals from the past and made them more accessible. 
