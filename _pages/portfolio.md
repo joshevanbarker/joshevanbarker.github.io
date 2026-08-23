@@ -1,9 +1,10 @@
 ---
-permalink: /portfolio/
+permalink: /ds_portfolio/
 title: "Data Science Portfolio"
 author_profile: true
 redirect_from: 
   - /portfolio
+  - /ds_portfolio
 ---
 ### <a href="/portfolio/call_report_rshiny">Call Report SQL Database and R Shiny Application
 <b>Languages</b>: SQL and R<br>
