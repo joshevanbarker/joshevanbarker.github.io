@@ -4,12 +4,14 @@ main:
   #  url: /about/
   - title: "Resume"
     url: /assets/documents/Josh%20Barker%20-%20Resume.pdf
-  - title: "Portfolio"
-    url: /portfolio/
-  #- title: "Publications"
-  #  url: /publications/
-  - title: "Presentations"
-    url: /presentation/
+  #- title: "Portfolio"
+  #  url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
+  #- title: "Presentations"
+  #  url: /presentation/
   - title: "Miscellaneous"
     url: /misc/
   #- title: "Links"
